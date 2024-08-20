@@ -26,7 +26,7 @@ gem "tzinfo-data", platforms: %i[ windows jruby ]
 gem "bootsnap", require: false
 
 # For compiling and bundling JavaScript. Read more: https://github.com/shakacode/shakapacker
-gem "shakapacker", "~> 6.6.0"
+gem "shakapacker", "~> 8.0.1"
 
 gem 'react-rails', "~> 2.7.1"
 
