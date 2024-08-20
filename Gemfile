@@ -28,7 +28,7 @@ gem "bootsnap", require: false
 # For compiling and bundling JavaScript. Read more: https://github.com/shakacode/shakapacker
 gem "shakapacker", "~> 6.6.0"
 
-gem 'react-rails', "~> 2.7.1"
+gem 'react-rails', "~> 3.2.1"
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
