@@ -202,7 +202,7 @@ GEM
       execjs
       railties (>= 3.2)
       tilt
-    redis (5.2.0)
+    redis (5.3.0)
       redis-client (>= 0.22.0)
     redis-client (0.22.2)
       connection_pool
